@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Token-factory-and-market/precache-manifest.839b1bfbd237226578ab37d4f5a6a6e8.js"
+  "/Token-factory-and-market/precache-manifest.73b51627940631a35522af5ef0517acb.js"
 );
 
 workbox.clientsClaim();
