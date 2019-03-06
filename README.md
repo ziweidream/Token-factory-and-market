@@ -1,4 +1,4 @@
-# Token-factory-and-market
+## Token Factory and Market
 
 ### A DApp on Ethereum Rinkeby Test Network
 
